@@ -1,0 +1,12 @@
+{
+    "name": "Ticket",
+    "alias": "ticket",
+    "core": true,
+    "description": "",
+    "keywords": [],
+    "priority": 25,
+    "providers": [],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

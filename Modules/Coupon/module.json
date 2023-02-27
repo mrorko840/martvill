@@ -1,0 +1,13 @@
+{
+    "name": "Coupon",
+    "alias": "coupon",
+    "core": true,
+    "version": "1.0",
+    "description": "",
+    "keywords": [],
+    "priority": 7,
+    "providers": [],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

@@ -1,0 +1,15 @@
+{
+    "Settings": "সেটিংস",
+    "Razorpay Documentation": "রেজারপে ডকুমেন্টেশন",
+    "Api Secret": "অপি সিক্রেট",
+    "Api Key": "এপি কী",
+    "Please specify sandbox enabled/disabled.": "অনুগ্রহ করে স্যান্ডবক্স সক্রিয়/অক্ষম উল্লেখ করুন।",
+    "Instruction": "নির্দেশ",
+    "Sandbox": "স্যান্ডবক্স",
+    "Status": "স্থিতি",
+    "RazorPay settings updated.": "RazorPay সেটিংস আপডেট করা হয়েছে।",
+    "Payment id not found.": "পেমেন্ট আইডি পাওয়া যায়নি.",
+    "Paying with Razorpay": "রেজারপে দিয়ে অর্থ প্রদান করা হচ্ছে",
+    "Pay with Razorpay": "রেজারপে দিয়ে পেমেন্ট করুন",
+    "Purchase data not found.": "ক্রয় তথ্য পাওয়া যায়নি."
+}

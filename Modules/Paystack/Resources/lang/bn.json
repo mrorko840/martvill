@@ -1,0 +1,14 @@
+{
+    "Settings": "সেটিংস",
+    "Paystack Documentation": "পেস্ট্যাক ডকুমেন্টেশন",
+    "Secret Key": "গোপন চাবি",
+    "Public Key": "সর্বজনীন কী",
+    "Please specify sandbox enabled/disabled.": "অনুগ্রহ করে স্যান্ডবক্স সক্রিয়/অক্ষম উল্লেখ করুন।",
+    "Instruction": "নির্দেশ",
+    "Sandbox": "স্যান্ডবক্স",
+    "Paystack settings updated.": "Paystack সেটিংস আপডেট করা হয়েছে।",
+    "Paying with Paystack": "Paystack দিয়ে অর্থ প্রদান",
+    "Email": "ইমেল",
+    "Pay With Paystack": "Paystack দিয়ে পে করুন",
+    "Purchase data not found.": "ক্রয় তথ্য পাওয়া যায়নি."
+}

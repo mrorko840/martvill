@@ -1,0 +1,31 @@
+{
+    "name": "techvillage/ngenius-module",
+    "type": "laravel-module",
+    "description": "NGenius, one stage payment solution. Simple, secure and PCI DSS compliant.",
+    "authors": [
+        {
+            "name": "Soumik Datta",
+            "email": "soumik.techvill@gmail.com"
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [],
+            "aliases": {}
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Modules\\NGenius\\": ""
+        }
+    },
+    "require": {
+        "nwidart/laravel-modules": "^8.2",
+        "joshbrw/laravel-module-installer": "^2.0"
+    },
+    "config": {
+        "allow-plugins": {
+            "joshbrw/laravel-module-installer": true
+        }
+    }
+}

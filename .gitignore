@@ -1,0 +1,26 @@
+# /node_modules
+# /public/hot
+# /public/storage
+# /public/uploads
+# /public/contents
+# /uploads
+# /storage/laravel-backups
+# /storage/*.key
+# /vendor
+# /design
+# /vendor/composer/*.php
+# /.idea
+# /.vscode
+# /.history
+# /nbproject
+# /.vagrant
+# Homestead.json
+# Homestead.yaml
+# npm-debug.log
+# yarn-error.log
+# robots.txt
+# terminat
+.env
+# .phpunit.result.cache
+# .rnd
+# composer.lock

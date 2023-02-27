@@ -1,0 +1,131 @@
+.task-modal-body {
+	background: #f4f5f7 !important;
+	color: #172b4d !important;
+}
+.task-modal-header {
+	background: #f4f5f7 !important;
+	margin: 0px !important;
+}
+.task-card {
+	background: #f4f5f7 !important;
+	-webkit-box-shadow: none;
+     box-shadow: none;
+}
+h6 {
+	color: #172b4d !important;
+	font-weight: 600;
+}
+.task-modal-title {
+	color: #172b4d !important;
+	font-weight: 600;
+	font-size: 20px;
+}
+.close {
+	color: #172b4d !important;
+}
+.task-btn-info {
+    color: #172b4d !important;
+    background-color: #eaecf0 !important;
+    border-color: #eaecf0 !important;
+    font-weight: 400;
+}
+.task-btn-info:hover {
+    color: #172b4d !important;
+    background-color: #e2e4e9 !important;
+    border-color: #e2e4e9 !important;
+    font-weight: 400;
+}
+.task-custom-btn-small {
+    color: #172b4d !important;
+    background-color: #eaecf0 !important;
+    border-color: #eaecf0 !important;
+    font-weight: 400;
+}
+.task-custom-btn-small:hover {
+    color: #172b4d !important;
+    background-color: #e2e4e9 !important;
+    border-color: #e2e4e9 !important;
+    font-weight: 400;
+}
+.far, .feather {
+    font-weight: 400 !important;
+}
+.task-text-primary {
+    color: #04a9f5  !important;
+}
+#assignee_list {
+    cursor: pointer;
+    background: #eaecf0;
+    padding-right: 11px;
+    padding-bottom: 5px;
+    padding-top: 5px;
+    padding-left: 5px;
+}
+.file-table-hover tbody tr:hover {
+    background-color: #eaecf0;
+}
+#filesDiv > div.card-body > div.dropzone-attachments.m-0 {
+	padding: 0 0;
+}
+tags > div > input {
+    min-width: 100px;
+    background-color: #f4f5f7 !important;
+}
+#filesDiv > div.card-body > div.dropzone-attachments.m-0 {
+    background-color: #fff;
+    border-radius: 3px;
+    box-shadow: 0 1px 2px -1px rgba(9,30,66,.25), 0 0 0 1px rgba(9,30,66,.08);
+    padding-top: 7px;
+}
+#comment_wrapper {
+    background-color: #fff;
+    border-radius: 3px;
+    box-shadow: 0 1px 2px -1px rgba(9,30,66,.25), 0 0 0 1px rgba(9,30,66,.08);
+}
+#comment:focus {
+    border: 1px solid #ffffff !important;
+    color: #495057;
+    background-color: #fff !important;
+    border-color: none; 
+    outline: none; 
+    box-shadow: none;
+}
+#comments_area {
+    padding: 13px;
+}
+#comments_area > div > div.comment-card-body {
+    padding: 5px 10px !important;
+    background-color: #fff !important;
+    box-shadow: 0 1px 2px -1px rgba(9,30,66,.25), 0 0 0 1px rgba(9,30,66,.08);
+}
+#comments_area > div > div.comment-card-header.p-1 {
+    padding: 5px 10px !important;
+    background: #eaecf0;
+    font-weight: 600;
+}
+#individual_logged_time, #total_logged_time, #hourly_rate, #priority, #due_date, #start_date, #task_status, #created_at, #related_to {
+	font-weight: 900 !important;
+	color: #172b4d !important;
+
+}
+input#start_date, input#due_date {
+    background: #f4f5f7;
+}
+.timer.btn-danger {
+    color: #fff !important;
+    background-color: #f44236 !important;
+    border-color: none;
+}
+.timer.btn-danger:hover {
+    color: #fff !important;
+    background-color: #fd5a4e !important;
+    border-color: none;
+}
+#manual_time_add_form > div > div.box-footer > div > div > button {
+    color: #fff !important;
+    background-color: #04a9f5 !important;
+    border-color: none;
+}
+.cursor-poiner {
+    cursor: pointer;
+}

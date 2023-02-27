@@ -1,0 +1,31 @@
+.card-panel {
+	display: none; 
+}
+
+.card, .card-panel {
+    width: 960px;
+    margin: 0 auto;
+}
+
+input { 
+	margin-bottom: 2px !important 
+};
+.color_D8000C {
+    color: #D8000C;
+}
+.mr-10 {
+    margin-right: 10px;
+}
+.color_4F8A10 {
+    color: #4F8A10;
+}
+.color_D8000C {
+    color: #D8000C;
+}
+.dummy-data {
+	font-size: 15px; 
+	color: black;
+}
+.color_red {
+    color: red;
+}

@@ -1,0 +1,150 @@
+/* START MODULE STYLING */
+.module-gallery {
+	width: 100%;
+}
+
+.module-gallery .slider-wrapper {
+	display: flex;
+	overflow: hidden;
+	max-height: 325px
+}
+
+.module-gallery .slider-thumb {
+	max-width: 125px;
+}
+
+.module-gallery .slider-thumb li {
+	max-height: 100px;
+}
+
+/* .module-gallery .slider-thumb img {
+	width: 100%;
+	height: 100%;
+	object-fit: cover;
+} */
+.slick-list.draggable {
+    height: unset !important;
+}
+.module-gallery .slider-thumb .slick-prev,
+.module-gallery .slider-thumb .slick-next {
+	z-index: 1;
+	height: 1em;
+	width: 100%;
+	background-color: #000;
+	opacity: 0.3;
+	transition: opacity 300ms ease;
+	font-size: 1.5em;
+	color: #fff;
+}
+
+.module-gallery .slider-thumb .slick-prev:before,
+.module-gallery .slider-thumb .slick-next:before {
+	content: '';
+}
+
+.module-gallery .slider-thumb .slick-prev:hover,
+.module-gallery .slider-thumb .slick-next:hover {
+	opacity: 0.5;
+}
+
+.module-gallery .slider-thumb .slick-prev {
+	left: unset;
+	top: 0.5em;
+}
+
+.module-gallery .slider-thumb .slick-next {
+	top: unset;
+	right: unset;
+	bottom: -0.5em;
+}
+
+.slick-track .slick-track {
+	display: none;
+}
+
+
+@media (max-width: 767px) {
+	.module-gallery .slider-wrapper {
+		flex-direction: column-reverse;
+	}
+
+	.module-gallery .slider-thumb {
+		max-width: 100%;
+	}
+
+	.module-gallery .slider-thumb .slick-prev,
+	.module-gallery .slider-thumb .slick-next {
+		top: 50%;
+		width: 1em;
+		height: 100%;
+	}
+
+	.module-gallery .slider-thumb .slick-prev {
+		left: 0;
+	}
+
+	.module-gallery .slider-thumb .slick-prev .fa:before {
+		content: "\f104";
+	}
+
+	.module-gallery .slider-thumb .slick-next {
+		right: 0;
+	}
+
+	.module-gallery .slider-thumb .slick-next .fa:before {
+		content: "\f105";
+	}
+}
+
+.gal-img {
+	width: 99%;
+	height: 100%;
+}
+
+.type-image-b {
+	border-bottom: 1px solid rgb(211, 211, 211) !important;
+	height: 100px;
+	width: 100%;
+}
+
+@media (min-width: 600px) {
+	.gal-img {
+		width: 99%;
+		height: 400px;
+	}
+}
+
+@media (min-width: 599px) {
+	.gal-img {
+		width: 99%;
+		height: 324px;
+	}
+}
+
+
+.textarea-shadow:focus {
+    box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.239);
+    outline: none;
+}
+
+
+/* multiple select css */
+.svg-icon {
+    width: 1em;
+    height: 1em;
+}
+
+.svg-icon path,
+.svg-icon polygon,
+.svg-icon rect {
+    fill: #333;
+}
+
+.svg-icon circle {
+    stroke: #4691f6;
+    stroke-width: 1;
+}
+
+[x-cloak] {
+    display: none;
+}

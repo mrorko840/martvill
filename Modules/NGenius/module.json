@@ -1,0 +1,13 @@
+{
+    "name": "NGenius",
+    "alias": "ngenius",
+    "version": "1.0",
+    "description": "NGenius, one stage payment solution. Simple, secure and PCI DSS compliant.",
+    "keywords": [],
+    "gateway": true,
+    "priority": 20,
+    "providers": [],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

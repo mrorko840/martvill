@@ -1,0 +1,13 @@
+{
+    "name": "Coinbase",
+    "alias": "coinbase",
+    "version": "1.0",
+    "gateway": true,
+    "description": "",
+    "keywords": [],
+    "priority": 4,
+    "providers": [],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

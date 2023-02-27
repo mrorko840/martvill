@@ -1,0 +1,25 @@
+body { 
+	margin: 0; 
+	padding: 10px; 
+	background-color: #ed5565; 
+	font-family: "Ruda",sans-serif; 
+	color: #FFF; 
+}
+.middle-box { 
+	margin: 0 auto; 
+	max-width: 400px; 
+	padding-top: 30px; 
+	z-index: 100; 
+	text-align: center; 
+}
+.middle-box h1 { 
+	font-size: 170px; 
+	color: white; 
+	margin: 0; 
+}
+.f-bold {
+	font: bold;
+}
+.color_F5F5F5 {
+	color: #F5F5F5;
+}

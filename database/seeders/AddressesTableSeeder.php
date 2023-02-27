@@ -1,0 +1,278 @@
+<?php
+
+namespace Database\Seeders;
+
+use Illuminate\Database\Seeder;
+
+class AddressesTableSeeder extends Seeder
+{
+
+    /**
+     * Auto generated seed file
+     *
+     * @return void
+     */
+    public function run()
+    {
+        
+
+        \DB::table('addresses')->delete();
+        
+        \DB::table('addresses')->insert(array (
+            0 => 
+            array (
+                'id' => 1,
+                'user_id' => 1,
+                'first_name' => 'Agatha',
+                'last_name' => 'Williams',
+                'phone' => '01738896835',
+                'email' => 'agathawilliams@gmail.com',
+                'company_name' => NULL,
+                'type_of_place' => 'home',
+                'address_1' => NULL,
+                'address_2' => NULL,
+                'city' => 'dhaka',
+                'state' => '81',
+                'zip' => '2233',
+                'country' => 'bd',
+                'is_default' => 1,
+            ),
+            1 => 
+            array (
+                'id' => 7,
+                'user_id' => 2,
+                'first_name' => 'Blaine',
+                'last_name' => 'Keller',
+                'phone' => '0135467989',
+                'email' => 'blainekeller@gmail.com',
+                'company_name' => NULL,
+                'type_of_place' => 'home',
+                'address_1' => 'Road no 1, House no 129',
+                'address_2' => NULL,
+                'city' => 'dhaka',
+                'state' => '81',
+                'zip' => '1229',
+                'country' => 'bd',
+                'is_default' => 1,
+            ),
+            2 => 
+            array (
+                'id' => 8,
+                'user_id' => 3,
+                'first_name' => 'Jamal',
+                'last_name' => NULL,
+                'phone' => '0135467989',
+                'email' => 'jamal@gmail.com',
+                'company_name' => NULL,
+                'type_of_place' => 'home',
+                'address_1' => 'House no 19',
+                'address_2' => NULL,
+                'city' => 'barishal',
+                'state' => '85',
+                'zip' => '1229',
+                'country' => 'bd',
+                'is_default' => 1,
+            ),
+            3 => 
+            array (
+                'id' => 9,
+                'user_id' => 4,
+                'first_name' => 'snowflake',
+                'last_name' => 'hamiz',
+                'phone' => '01788026663',
+                'email' => 'snowflakehamiz@gmail.com',
+                'company_name' => NULL,
+                'type_of_place' => 'home',
+                'address_1' => 'House no 259',
+                'address_2' => NULL,
+                'city' => 'lokossa',
+                'state' => '15',
+                'zip' => '1229',
+                'country' => 'bj',
+                'is_default' => 1,
+            ),
+            4 => 
+            array (
+                'id' => 10,
+                'user_id' => 5,
+                'first_name' => 'Noah',
+                'last_name' => NULL,
+                'phone' => '01738899999',
+                'email' => 'noah@gmail.com',
+                'company_name' => NULL,
+                'type_of_place' => 'office',
+                'address_1' => 'Road no 1, House no 3',
+                'address_2' => NULL,
+                'city' => 'bellingen',
+                'state' => 'vlg',
+                'zip' => '3000',
+                'country' => 'be',
+                'is_default' => 1,
+            ),
+            5 => 
+            array (
+                'id' => 11,
+                'user_id' => 6,
+                'first_name' => 'Oliver',
+                'last_name' => NULL,
+                'phone' => '01738896666',
+                'email' => 'oliver@gmail.com',
+                'company_name' => NULL,
+                'type_of_place' => 'office',
+                'address_1' => 'Street 414',
+                'address_2' => NULL,
+                'city' => 'boa vista',
+                'state' => '25',
+                'zip' => '4000',
+                'country' => 'br',
+                'is_default' => 1,
+            ),
+            6 => 
+            array (
+                'id' => 12,
+                'user_id' => 7,
+                'first_name' => 'Liam',
+                'last_name' => NULL,
+                'phone' => '01738896222',
+                'email' => 'liam@gmail.com',
+                'company_name' => NULL,
+                'type_of_place' => 'home',
+                'address_1' => 'street 300',
+                'address_2' => NULL,
+                'city' => 'cerrillos',
+                'state' => '17',
+                'zip' => '20000',
+                'country' => 'ar',
+                'is_default' => 1,
+            ),
+            7 => 
+            array (
+                'id' => 13,
+                'user_id' => 8,
+                'first_name' => 'Elijah',
+                'last_name' => NULL,
+                'phone' => '01738896777',
+                'email' => 'elijah@gmail.com',
+                'company_name' => NULL,
+                'type_of_place' => 'home',
+                'address_1' => 'Street 515',
+                'address_2' => NULL,
+                'city' => 'baodi',
+                'state' => '7',
+                'zip' => '3300',
+                'country' => 'cn',
+                'is_default' => 1,
+            ),
+            8 => 
+            array (
+                'id' => 14,
+                'user_id' => 9,
+                'first_name' => 'Oliver',
+                'last_name' => NULL,
+                'phone' => '01738896888',
+                'email' => 'oliver@gmail.com',
+                'company_name' => NULL,
+                'type_of_place' => 'home',
+                'address_1' => 'Road no 12, House no 12',
+                'address_2' => NULL,
+                'city' => 'Mymensingh',
+                'state' => 'h',
+                'zip' => '1222',
+                'country' => 'bd',
+                'is_default' => 1,
+            ),
+            9 => 
+            array (
+                'id' => 15,
+                'user_id' => 15,
+                'first_name' => 'Henry',
+                'last_name' => 'William',
+                'phone' => '01782325656',
+                'email' => 'henrywilliam@gmail.com',
+                'company_name' => NULL,
+                'type_of_place' => 'office',
+                'address_1' => 'House no 19, Road no 2',
+                'address_2' => NULL,
+                'city' => 'Tungi',
+                'state' => '81',
+                'zip' => '1207',
+                'country' => 'bd',
+                'is_default' => 1,
+            ),
+            10 => 
+            array (
+                'id' => 16,
+                'user_id' => 16,
+                'first_name' => 'Jacob',
+                'last_name' => 'Wiliam',
+                'phone' => '01738896832',
+                'email' => 'jacobwiliam@gmail.com',
+                'company_name' => NULL,
+                'type_of_place' => 'home',
+                'address_1' => 'House no 2, Road no 10',
+                'address_2' => NULL,
+                'city' => 'Bagerhat',
+                'state' => '82',
+                'zip' => '1200',
+                'country' => 'bd',
+                'is_default' => 1,
+            ),
+            11 => 
+            array (
+                'id' => 17,
+                'user_id' => 17,
+                'first_name' => 'Mason',
+                'last_name' => 'William',
+                'phone' => '01738896895',
+                'email' => 'masonwilliam@gmail.com',
+                'company_name' => NULL,
+                'type_of_place' => 'office',
+                'address_1' => 'House no 4, Road no 12',
+                'address_2' => NULL,
+                'city' => 'Chattogram',
+                'state' => '84',
+                'zip' => '1200',
+                'country' => 'bd',
+                'is_default' => 1,
+            ),
+            12 => 
+            array (
+                'id' => 18,
+                'user_id' => 18,
+                'first_name' => 'Daniel',
+                'last_name' => 'William',
+                'phone' => '01738896875',
+                'email' => 'danielwilliam@gmail.com',
+                'company_name' => NULL,
+                'type_of_place' => 'home',
+                'address_1' => 'Street 212',
+                'address_2' => NULL,
+                'city' => 'Karukh',
+                'state' => '11',
+                'zip' => '5004',
+                'country' => 'af',
+                'is_default' => 1,
+            ),
+            13 => 
+            array (
+                'id' => 19,
+                'user_id' => 19,
+                'first_name' => 'Micheal',
+                'last_name' => 'William',
+                'phone' => '01738896889',
+                'email' => 'michealwilliam@gmail.com',
+                'company_name' => NULL,
+                'type_of_place' => 'home',
+                'address_1' => 'Street 3300',
+                'address_2' => NULL,
+                'city' => 'alice town',
+                'state' => '5',
+                'zip' => '9000',
+                'country' => 'bs',
+                'is_default' => 1,
+            ),
+        ));
+        
+        
+    }
+}

@@ -1,0 +1,139 @@
+{
+    "addons": [
+        {
+            "name": "CashOnDelivery",
+            "alias": "cashondelivery",
+            "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+            "image": [
+                "https://demo.martvill.techvill.net/Modules/CashOnDelivery/Resources/assets/thumbnail.png"
+            ],
+            "price_type": "free",
+            "price": "Free",
+            "url": "https://demo.martvill.techvill.net/modules/coupon.zip",
+            "version": "1.9",
+            "require_version": "2.0",
+            "last_update_date": "27-09-2022",
+            "meta": []
+        },
+        {
+            "name": "Coinbase",
+            "alias": "coinbase",
+            "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+            "image": [
+                "https://demo.martvill.techvill.net/Modules/Coinbase/Resources/assets/thumbnail.png"
+            ],
+            "price_type": "premium",
+            "price": "$20",
+            "url": "https://martvill.techvill.net",
+            "version": "1.0",
+            "require_version": "1.8",
+            "last_update_date": "10-10-2022",
+            "meta": []
+        },
+        {
+            "name": "CoinPayment",
+            "alias": "coinpayment",
+            "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+            "image": [
+                "https://demo.martvill.techvill.net/Modules/Coinpayment/Resources/assets/thumbnail.png"
+            ],
+            "price_type": "premium",
+            "price": "15$",
+            "url": "https://martvill.techvill.net",
+            "version": "2.5",
+            "require_version": "1.1",
+            "last_update_date": "05-07-2022",
+            "meta": []
+        },
+        {
+            "name": "Instamojo",
+            "alias": "instamojo",
+            "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+            "image": [
+                "https://demo.martvill.techvill.net/Modules/Instamojo/Resources/assets/thumbnail.png"
+            ],
+            "price_type": "premium",
+            "price": "25$",
+            "url": "https://martvill.techvill.net",
+            "version": "1.0",
+            "require_version": "2.0",
+            "last_update_date": "20-10-2022",
+            "meta": []
+        },
+        {
+            "name": "Paypal",
+            "alias": "paypal",
+            "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+            "image": [
+                "https://demo.martvill.techvill.net/Modules/Paypal/Resources/assets/thumbnail.png"
+            ],
+            "price_type": "premium",
+            "price": "30$",
+            "url": "https://martvill.techvill.net",
+            "version": "2.1",
+            "require_version": "0.1",
+            "last_update_date": "03-11-2022",
+            "meta": []
+        },
+        {
+            "name": "Paystack",
+            "alias": "paystack",
+            "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+            "image": [
+                "https://demo.martvill.techvill.net/Modules/Paystack/Resources/assets/thumbnail.png"
+            ],
+            "price_type": "premium",
+            "price": "10$",
+            "url": "https://martvill.techvill.net",
+            "version": "1.0",
+            "require_version": "2.3",
+            "last_update_date": "11-03-2022",
+            "meta": []
+        },
+        {
+            "name": "Razorpay",
+            "alias": "razorpay",
+            "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+            "image": [
+                "https://demo.martvill.techvill.net/Modules/Razorpay/Resources/assets/thumbnail.png"
+            ],
+            "price_type": "premium",
+            "price": "18$",
+            "url": "https://martvill.techvill.net",
+            "version": "2.1",
+            "require_version": "1.5",
+            "last_update_date": "02-03-2022",
+            "meta": []
+        },
+        {
+            "name": "Recaptcha",
+            "alias": "recaptcha",
+            "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+            "image": [
+                "https://demo.martvill.techvill.net/Modules/Recaptcha/Resources/assets/thumbnail.png"
+            ],
+            "price_type": "free",
+            "price": "Free",
+            "url": "https://martvill.techvill.net",
+            "version": "2.0",
+            "require_version": "1.7",
+            "last_update_date": "02-11-2022",
+            "meta": []
+        },
+        {
+            "name": "Stripe",
+            "alias": "stripe",
+            "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+            "image": [
+                "https://demo.martvill.techvill.net/Modules/Stripe/Resources/assets/thumbnail.png"
+            ],
+            "price_type": "premium",
+            "price": "05$",
+            "url": "https://martvill.techvill.net",
+            "version": "1.9",
+            "require_version": "1.8",
+            "last_update_date": "19-02-2022",
+            "meta": []
+        }
+    ]
+}

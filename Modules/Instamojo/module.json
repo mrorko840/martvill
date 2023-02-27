@@ -1,0 +1,13 @@
+{
+    "name": "Instamojo",
+    "alias": "instamojo",
+    "version": "1.0",
+    "gateway": true,
+    "description": "",
+    "keywords": [],
+    "priority": 9,
+    "providers": [],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

@@ -1,0 +1,12 @@
+{
+    "name": "SslCommerz",
+    "alias": "sslcommerz",
+    "gateway": true,
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

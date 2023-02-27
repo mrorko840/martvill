@@ -1,0 +1,15 @@
+{
+    "Settings": "Settings",
+    "Razorpay Documentation": "Razorpay Documentation",
+    "Api Secret": "Api Secret",
+    "Api Key": "Api Key",
+    "Please specify sandbox enabled/disabled.": "Please specify sandbox enabled/disabled.",
+    "Instruction": "Instruction",
+    "Sandbox": "Sandbox",
+    "Status": "Status",
+    "RazorPay settings updated.": "RazorPay settings updated.",
+    "Payment id not found.": "Payment id not found.",
+    "Paying with Razorpay": "Paying with Razorpay",
+    "Pay with Razorpay": "Pay with Razorpay",
+    "Purchase data not found.": "Purchase data not found."
+}

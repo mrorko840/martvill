@@ -1,0 +1,106 @@
+table.dataTable th:nth-child(5) {
+  max-width: 90px;
+  word-wrap: break-word;
+  white-space: normal;
+}
+table.dataTable td:nth-child(5) {
+  max-width: 90px;
+  word-break: break-all;
+  white-space: normal;
+  padding-left: 0px;
+}
+table.dataTable th:nth-child(6) {
+  max-width: 100px;
+  word-wrap: break-word;
+  white-space: normal;
+}
+table.dataTable td:nth-child(6) {
+  word-break: break-all;
+  white-space: normal;
+  max-width: 100px;
+  padding-left: 0px;
+}
+table.dataTable th:nth-child(2) {
+  max-width: 220px;
+  word-wrap: break-word;
+  white-space: normal;
+}
+table.dataTable td:nth-child(2) {
+  max-width: 220px;
+  word-break: break-all;
+  white-space: normal;
+}
+table.dataTable th:nth-child(1) {
+  min-width: 250px;
+  max-width: 250px;
+  word-wrap: break-word;
+  white-space: normal;
+}
+table.dataTable td:nth-child(1) {
+  min-width: 250px;
+  max-width: 250px;
+  word-break: break-word;
+  white-space: normal;
+}
+.margin-top-1 {
+  margin-top: 1%;
+}
+.dropzone-attachments{
+  background-repeat: no-repeat;
+  background-position: center center;
+  height: 100%;
+  min-height: 100px;
+  padding: 26px 0px;
+  margin-left: 10px;
+}
+.event-attachments{padding: 0px 7px;}
+.add-attachments{float: left; height: 55px; width: 55px; border: 1px dashed #aaa; margin: 5px; text-align: center; vertical-align: middle; cursor: pointer;}
+.add-attachments .fa-plus{font-size: 20px; margin-top: 20px}
+.list-attachments {float: left; height: 55px; width: 55px; border: 1px dashed #aaa; margin: 5px; text-align: center; background-color: #ddd}
+.list-attachments .attachment-item-delete{font-size: 14px; margin-left: 40px; clear: both; cursor: pointer; color: #A00}
+.dz-preview, .dz-file-preview { display: none; }
+.list-attachments .far { font-size: 40px; margin-top: -10px; }
+
+.modal-open .modal {
+  overflow-x: hidden;
+  overflow-y: auto;
+}
+.btn-file {
+  position: relative;
+  overflow: hidden;
+}
+.btn-file input[type=file] {
+  position  : absolute;
+  top       : 0;
+  right     : 0;
+  min-width : 100%;
+  min-height: 100%;
+  font-size : 100px;
+  text-align: right;
+  filter    : alpha(opacity =0);
+  opacity   : 0;
+  outline   : none;
+  background: white;
+  cursor    : inherit;
+  display   : block;
+}
+@media (min-width: 992px) {
+  #taskStatus_summary .col-md-2 .panel-primary{
+    min-height: 120px;
+  }
+  .col-xl-2{
+    max-width: 14.667% !important;
+  }
+  .col-lg-2{
+    max-width: 14.667% !important;
+  }
+  .custom-width {
+    max-width: 14.667% !important;
+  }
+}
+@media (max-width: 425px) {
+  table.dataTable th:nth-child(1), table.dataTable td:nth-child(1) {
+    min-width: 140px !important;
+    white-space: normal; 
+  }
+}

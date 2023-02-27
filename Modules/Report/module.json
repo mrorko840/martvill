@@ -1,0 +1,12 @@
+{
+    "name": "Report",
+    "core": true,
+    "alias": "report",
+    "description": "",
+    "keywords": [],
+    "priority": 50,
+    "providers": [],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

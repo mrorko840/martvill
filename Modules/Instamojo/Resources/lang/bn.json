@@ -1,0 +1,17 @@
+{
+    "Settings": "সেটিংস",
+    "Instamojo Documentation": "ইন্সটামোজো ডকুমেন্টেশন",
+    "Api Key": "এপি কী",
+    "Auth Token": "প্রমাণ টোকেন",
+    "Instamojo settings updated.": "Instamojo সেটিংস আপডেট করা হয়েছে।",
+    "Couldn't initiate the payment.": "অর্থপ্রদান শুরু করা যায়নি।",
+    "Payment failed.": "পেমেন্ট ব্যর্থ হয়েছে.",
+    "Payment could not be verified.": "অর্থপ্রদান যাচাই করা যায়নি.",
+    "Payment is not completed.": "পেমেন্ট সম্পূর্ণ হয় না.",
+    "Paying with Instamojo": "Instamojo দিয়ে অর্থপ্রদান করা হচ্ছে",
+    "Name": "নাম",
+    "Your name": "তোমার নাম",
+    "Email": "ইমেল",
+    "Pay With Instamojo": "Instamojo দিয়ে পেমেন্ট করুন",
+    "Purchase data not found.": "ক্রয় তথ্য পাওয়া যায়নি."
+}

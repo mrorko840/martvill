@@ -1,0 +1,17 @@
+{
+    "Settings": "Settings",
+    "Instamojo Documentation": "Instamojo Documentation",
+    "Api Key": "Api Key",
+    "Auth Token": "Auth Token",
+    "Instamojo settings updated.": "Instamojo settings updated.",
+    "Couldn't initiate the payment.": "Couldn't initiate the payment.",
+    "Payment failed.": "Payment failed.",
+    "Payment could not be verified.": "Payment could not be verified.",
+    "Payment is not completed.": "Payment is not completed.",
+    "Paying with Instamojo": "Paying with Instamojo",
+    "Name": "Name",
+    "Your name": "Your name",
+    "Email": "Email",
+    "Pay With Instamojo": "Pay With Instamojo",
+    "Purchase data not found.": "Purchase data not found."
+}

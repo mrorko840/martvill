@@ -1,0 +1,101 @@
+body {
+	font-family: "DeJaVu Sans", Helvetica, sans-serif;
+	color: #121212;
+	line-height: 22px
+}
+
+table, tr, td {
+	border-bottom: 1px solid #d1d1d1;
+	padding: 6px 0px
+}
+
+tr {
+	height: 40px
+}
+
+.receipt-container {
+	width: 900px;
+	margin: 15px auto;
+	padding-bottom: 40px
+}
+
+.receipt-type-heading {
+	font-weight: bold;
+	font-size: 20px;
+	margin-top: 10px
+}
+
+.receipt-head-container {
+	margin-left: 30px
+}
+
+.receipt-head-section {
+	width: 200px;
+	float: left;
+}
+
+.receipt-head-section-email-left {
+	width: 200px;
+	float: left;
+	margin-left: -20px;
+}
+
+.receipt-head-section-email-right {
+	width: 200px;
+	float: left;
+	margin-left: 25px;
+}
+
+.receipt-head-section-left {
+	width: 200px;
+	float: left;
+	margin-left: -25px;
+}
+.receipt-head-section-right {
+	width: 200px;
+	float: right;
+	margin-right: 30px;
+}
+
+.r-mt20 {
+	margin-top: 20px
+}
+
+.r-company-name {
+	font-size: 16px;
+	color: #000000;
+	font-weight: bold
+}
+
+.r-font-16 {
+	font-size: 16px
+}
+
+.c-both {
+	clear: both
+}
+
+.receipt-table {
+	width: 100%;
+	border-radius: 2px;
+	border: 2px solid #d1d1d1;
+	border-collapse: collapse
+}
+
+.receipt-table-head {
+	background-color: #f0f0f0;
+	border-bottom: 1px solid #d1d1d1;
+	text-align: center;
+	font-size: 13px;
+	font-weight: bold
+}
+
+.receipt-table-row {
+	background-color: #fff;
+	text-align: center;
+	font-size: 13px;
+	font-weight: normal
+}
+.add-padding-left {
+    padding-left: 10px;
+}
